@@ -23,7 +23,7 @@ Training is performed using an ImageDataGenerator for both training and validati
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/chiranjeevim27/ovarian-cancer-detection.git
+   git clone https://github.com/chiranjeevim27/ovarycancer-prediction.git
    ```
 
 2. Install the required dependencies:
